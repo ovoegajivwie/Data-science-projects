@@ -1,3 +1,5 @@
+#Using python and ML to predictict the amount spent on advertisement vs unit of item sold
+
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
